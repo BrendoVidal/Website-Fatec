@@ -1,0 +1,23 @@
+.navbar-nav,
+.mr-auto {
+flex: 1;
+margin-left: 10px;
+margin-right: 10px;
+display: flex;
+justify-content: space-between;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+    font-weight: bold;
+  }
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: lightgray;
+  }
+
+  #imagens{
+      display:flex;
+      justify-content: center;
+      justify-items: center;
+      background-color: lightgray;
+  }
