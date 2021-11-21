@@ -23,6 +23,33 @@ justify-content: space-between;
   }
 
   #logo{
-    margin-top: 48px;
+    margin-top: 38px;
     margin-right: 90px;
+  }
+
+
+  #menu{
+    background-color: #005c6e;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: -16px;
+    width: 90%;
+    height: 5%;
+  }
+
+  a { 
+    color: whitesmoke;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color:lightgray;
+  }
+
+  .container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 5px;
+    font-weight: bold;
   }

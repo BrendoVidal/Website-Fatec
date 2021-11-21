@@ -1,0 +1,62 @@
+#rodape{
+    background-color: #D3D9D9;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+#gov{
+    margin-top: 40px;
+}
+
+#cps{
+    margin-left: -38px;
+}
+
+a { 
+    color: gray;
+    text-decoration: none;
+  }
+
+  a:hover{
+    color: black;
+  }
+
+
+  #menu{
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #centralizando{
+      width: 50%;
+      font-weight: bold;
+      margin-top: 20px;
+      font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+  }
+
+  hr{
+      width: 75%;
+      color: grey;
+      margin-top: 30px;
+  }
+
+  #icons{
+      justify-content: space-between;
+      width: 30%;
+      color: grey;
+      margin-top: 30px;
+  }
+
+  #fonte{
+      font-size: 14px;
+      color: grey;
+      margin-top: 50px;
+      margin-bottom: 20px;
+  }
