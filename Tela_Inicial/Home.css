@@ -1,0 +1,62 @@
+footer{
+    width: 100%;
+    border: none;
+    margin: auto;
+    bottom: 0;
+}
+
+#carrossel{
+    width: 90%;
+    background-color: mediumaquamarine;
+    height: 500px;
+    padding: 10px;
+}
+
+#btn_insta{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#container_carousel{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#cursos{
+    margin-top: 150px;
+    width: 80%;
+}
+
+#container_cursos{
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+    width: 80%;
+    margin-bottom: 100px;
+}
+
+#titulo_cursos{
+    background-color: #005c6e;
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    height: 50px;
+    font-style: oblique;
+}
+
+#cards{
+    margin-top: 10px;
+    background-image: url("../Imagens//foto_fatec.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+    padding-bottom: 20px;
+}
+
+.card.h-100 > img{
+    height: 250px;
+}
