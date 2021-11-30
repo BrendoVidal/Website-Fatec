@@ -1,0 +1,35 @@
+#titulo{
+    text-align: center;
+    margin-top: 40px;
+    color: #005c6e;
+    font-weight: bold;
+}
+
+.linha{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+#subtitulo{
+    margin-left: 70px;
+    color: #2bb8c9;
+    margin-bottom: 50px;
+}
+
+#texto{
+    margin-left: 70px;
+}
+
+.mb-3{
+    margin-left: 70px;
+    margin-right: 100px;
+}
+
+.btn.btn-primary{
+    margin-left: 70px;
+    width: 150px;
+    margin-bottom: 50px;
+}
+
